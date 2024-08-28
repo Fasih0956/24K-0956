@@ -3,4 +3,4 @@
 + Fast Nuces
 - BS(CS)
 + 1-B
-* ![My Image](/storage/emulated/0/Download/IMG_20240605_212245.jpg)
+* ![My Image](https://github.com/user-attachments/assets/f2002bf3-80f9-407e-8e7c-7418a6448d74)
